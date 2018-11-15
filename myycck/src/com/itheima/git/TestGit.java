@@ -8,15 +8,10 @@ package com.itheima.git;
  */
 public class TestGit {
     public static void main(String[] args) {
-        System.out.println("55555555");
-        System.out.println("55555555");
-        System.out.println("55555555");
-        System.out.println("55555555");
-        System.out.println("00000000000");
+        System.out.println("111111111111111111111111111");
     }
 
     public void test1(){
-        int i = 1;
-        i+=10;
+
     }
 }
