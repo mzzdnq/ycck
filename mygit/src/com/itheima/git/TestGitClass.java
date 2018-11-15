@@ -16,6 +16,6 @@ public class TestGitClass{
 
     public void test1(){
         int i = 0;
-       i+=3;
+       i+=5;
     }
 }
