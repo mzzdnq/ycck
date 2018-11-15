@@ -12,5 +12,11 @@ public class TestGit {
         System.out.println("55555555");
         System.out.println("55555555");
         System.out.println("55555555");
+        System.out.println("00000000000");
+    }
+
+    public void test1(){
+        int i = 1;
+        i+=10;
     }
 }
